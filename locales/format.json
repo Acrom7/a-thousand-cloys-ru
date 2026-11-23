@@ -1,0 +1,1692 @@
+{
+  "keys": [
+    "MM_GAME_TITLE",
+    "MM_CONTINUE",
+    "MM_NEWMISSION",
+    "MM_EPILOGUE",
+    "MM_REPLAYENDING",
+    "MM_EXPORTSAVE",
+    "MM_CREDITS",
+    "MM_DISCORD",
+    "MM_FEEDBACK_FORM",
+    "MM_WISHLIST",
+    "MM_QUIT",
+    "MM_POPUP_OVERRIDE_SAVE",
+    "MM_POPUP_GENERIC_YES",
+    "MM_POPUP_GENERIC_CANCEL",
+    "MM_POPUP_GENERIC_OK",
+    "MM_POPUP_GENERIC_DONOTSHOWAGAIN",
+    "MM_POPUP_DEMO_FEEDBACK",
+    "MM_POPUP_DEMO_FEEDBACK_SURE",
+    "MM_POPUP_DEMO_FEEDBACK_NOTNOW",
+    "MM_POPUP_DEMO_FEEDBACK_NEVER",
+    "MM_POPUP_DEMOVERSION",
+    "MM_EXPORT_WEBGL",
+    "LANGUAGE_FR",
+    "LANGUAGE_EN",
+    "LOADING_LOADING",
+    "LOADING_UPGRADING_SAVE",
+    "PAUSE_SAVING",
+    "PAUSE_LASTSAVE",
+    "PAUSE_SAVE_BUTTON",
+    "PAUSE_SAVEANDQUIT_BUTTON",
+    "PAUSE_QUIT_BUTTON",
+    "PAUSE_PLAYTIME",
+    "UI_VERSION",
+    "UI_OPTIONS_TITLE",
+    "UI_OPTIONS_DISPLAY",
+    "UI_OPTIONS_DISPLAY_INTERFACE",
+    "UI_OPTIONS_AUTOCLOSETRIVIAS",
+    "UI_OPTIONS_AUTOCLOSETRIVIAS_NEVER",
+    "UI_OPTIONS_AUTOCLOSETRIVIAS_DURATION",
+    "UI_OPTIONS_AUTOCLOSETRIVIAS_DONOTSHOW",
+    "UI_OPTIONS_DISABLENOTIFICATIONSFROMNOTIMPORTANTMAILS",
+    "UI_OPTIONS_UNSPENTCREDITSREMINDER",
+    "UI_OPTIONS_UNSPENTESSENCEREMINDER",
+    "UI_OPTIONS_UPGRADEAMPLIFIERORCECREMINDER",
+    "UI_OPTIONS_BUILDOUTPOSTORREPAIRMONOLITHREMINDER",
+    "UI_OPTIONS_DISPLAY_FXS",
+    "UI_OPTIONS_IDLECAMERA",
+    "UI_OPTIONS_SCREENSHAKES_AMPLITUDE",
+    "UI_OPTIONS_SCREENFXS",
+    "UI_OPTIONS_BLOOM",
+    "UI_OPTIONS_BLOOMFLICKERING",
+    "UI_OPTIONS_LENSDISTORSION",
+    "UI_OPTIONS_NOISE",
+    "UI_OPTIONS_CHROMATICABERRATION",
+    "UI_OPTIONS_DARKMODE",
+    "UI_OPTIONS_FULLSCREEN",
+    "UI_OPTIONS_UISCALE",
+    "UI_OPTIONS_CURSOR_SIZE",
+    "UI_OPTIONS_SOUND",
+    "UI_OPTIONS_SOUND_VOLUMES",
+    "UI_VOLUME_SFX",
+    "UI_VOLUME_PERSISTENTSFX",
+    "UI_VOLUME_MUSIC",
+    "UI_VOLUME_RWSFX",
+    "UI_OPTIONS_SOUND_SETTINGS",
+    "UI_OPTIONS_MUTE_SFX_OUT_OF_FOCUS",
+    "UI_OPTIONS_MUTE_MUSIC_OUT_OF_FOCUS",
+    "UI_OPTIONS_INPUT",
+    "UI_OPTIONS_INPUT_SETTINGS",
+    "UI_OPTIONS_REALWORLD_CAMERA_SENSITIVITY",
+    "UI_OPTIONS_MOVE_CAMERA_WITH_SCREEN_BORDER",
+    "UI_OPTIONS_MOVE_CAMERA_LEFTCLICK",
+    "UI_OPTIONS_CAMERA_MOVE_SPEED",
+    "UI_OPTIONS_CAMERA_ZOOM_STEP_SIZE",
+    "UI_OPTIONS_HOLD_TO_CLICK",
+    "UI_OPTIONS_IGNOREHOVERAUTOCLICKONRESOURCEDROPS",
+    "UI_OPTIONS_INPUT_BINDINGS",
+    "UI_REBINDING_INSTRUCTION",
+    "REMAPPABLE_CONTROL_MOVEUP",
+    "REMAPPABLE_CONTROL_MOVELEFT",
+    "REMAPPABLE_CONTROL_MOVERIGHT",
+    "REMAPPABLE_CONTROL_MOVEDOWN",
+    "REMAPPABLE_CONTROL_TOGGLEAUTOCLICKER",
+    "REMAPPABLE_CONTROL_TOGGLEAUTOCLICKERSELECTED",
+    "REMAPPABLE_CONTROL_TOGGLEAUTOHOLD",
+    "REMAPPABLE_CONTROL_BUILDCLOY",
+    "REMAPPABLE_CONTROL_SELECTPORTAL",
+    "REMAPPABLE_CONTROL_SELECTAMPLIFIER",
+    "REMAPPABLE_CONTROL_SELECTCEC",
+    "REMAPPABLE_CONTROL_CYCLEAVAILABLEPURCHASE",
+    "REMAPPABLE_CONTROL_TOGGLEMARKSELECTED",
+    "REMAPPABLE_CONTROL_TOGGLEMARKHOVERED",
+    "REMAPPABLE_CONTROL_CYCLEBEACON",
+    "REMAPPABLE_CONTROL_CYCLEREMOTEBASE",
+    "REMAPPABLE_CONTROL_OPENMAILS",
+    "REMAPPABLE_CONTROL_MULTIBUY",
+    "UI_REBINDING_RESET",
+    "UI_ERROR_SAVE_TITLE",
+    "UI_ERROR_SAVE_CONTENT",
+    "UI_CREDITS_GAME_BY_GRHYLL",
+    "UI_CREDITS_RAMA",
+    "UI_CREDITS_HELP",
+    "UI_CREDITS_SOFTWARES",
+    "UI_CREDITS_MUSIC",
+    "UI_CREDITS_THANKS",
+    "UI_CREDITS_THANKSFORPLAYING",
+    "UI_CREDITS_PASSINSTRUCTION",
+    "HQ_NAME",
+    "HQ_DESCRIPTION",
+    "HQ_DEPLOY",
+    "HQ_EXPAND",
+    "HQ_BUILD_CLOY",
+    "HQ_BUILD_CLOY_MAX",
+    "HQ_BUILD_CLOY_SCHOOL",
+    "HQ_BUILD_AMPLIFIER",
+    "HQ_BUILD_BEACON",
+    "HQ_DEFAULTBEACONSMODE",
+    "BEACON_NAME_ALPHA",
+    "BEACON_NAME_BETA",
+    "BEACON_NAME_GAMMA",
+    "BEACON_NAME_DELTA",
+    "BEACON_DESCRIPTION",
+    "BEACON_SPEED",
+    "BEACON_INSTRUCTION",
+    "BEACON_DISABLE_ATTRACTION",
+    "BEACON_ENABLE_ATTRACTION",
+    "BEACON_ATTRACTION_TOOLTIP",
+    "BEACON_ATTRACTION_TOOLTIP_NO_ENABLED_BEACON",
+    "BEACON_INACTIVE_SPEED_TOOLTIP",
+    "BEACON_EXPAND",
+    "BEACON_EXPAND_TOOLTIP",
+    "BEACON_EXPAND_MAXED",
+    "BEACON_EXTEND_LINK",
+    "BEACON_EXTEND_LINK_MAXED",
+    "BEACON_EXTEND_LINK_TOOLTIP",
+    "BEACON_INCREASE_SPEED",
+    "BEACON_BUILD_FIRST_SUBBEACON",
+    "BEACON_BUILD_SUBBEACON",
+    "BEACON_SUBBEACON_TOOLTIP",
+    "BEACON_SETTLED",
+    "BEACON_SETTLED_TOOLTIP",
+    "BEACON_MODE_TOOLTIP_MANUAL",
+    "BEACON_MODE_TOOLTIP_ROTATE",
+    "BEACON_MODE_TOOLTIP_EXPLORE",
+    "BEACON_MODE_TOOLTIP_HARVEST",
+    "BEACON_MODE_NAME",
+    "BEACON_MODE_MANUAL",
+    "BEACON_MODE_ROTATE",
+    "BEACON_MODE_EXPLORE",
+    "BEACON_MODE_HARVEST",
+    "BEACONS_BENDS",
+    "BEACON_SETUPASREMOTEBASE",
+    "REMOTEBASE_NAME",
+    "REMOTEBASE_DESCRIPTION",
+    "REMOTEBASE_EXPAND_TOOLTIP",
+    "REMOTEBASE_RECYCLE",
+    "REMOTEBASE_RECYCLE_TOOLTIP",
+    "CEC_NAME",
+    "CEC_DESCRIPTION",
+    "CEC_PURCHASE_SPEED",
+    "CEC_PURCHASE_ATTACK",
+    "CEC_PURCHASE_STRENGTH",
+    "CEC_AAB_ON",
+    "CEC_AAB_OFF",
+    "CEC_AAB_TOOLTIP",
+    "CLOY_DESCRIPTION",
+    "CLOY_CURRENT_HARVEST",
+    "CLOY_SPEED",
+    "CLOY_SPEED_TOOLTIP",
+    "CLOY_ATTACK",
+    "CLOY_ATTACK_TOOLTIP",
+    "CLOY_STRENGTH",
+    "CLOY_STRENGTH_TOOLTIP",
+    "CLOY_SPEED_STAT",
+    "CLOY_ATTACK_STAT",
+    "CLOY_STRENGTH_STAT",
+    "CLOY_COVEREDINACID",
+    "CLOY_COVEREDINACID_TOOLTIP",
+    "ACTIVITY_RESIN",
+    "ACTIVITY_RESINTOOLTIP",
+    "AMPLIFIER_NAME",
+    "AMPLIFIER_DESCRIPTION",
+    "AMPLIFIER_CLICK_POWER",
+    "AMPLIFIER_CLICK_POWER_TOOLTIP",
+    "AMPLIFIER_AUTOCLICK_UNLOCK",
+    "AMPLIFIER_AUTOCLICK_DELAY",
+    "AMPLIFIER_AUTOCLICK_DELAY_MAX",
+    "AMPLIFIER_AUTOCLICK_TOOLTIP_OLD",
+    "AMPLIFIER_AUTOCLICK_TOOLTIP",
+    "AMPLIFIER_BUY_MARKER",
+    "AMPLIFIER_MARK_MAX",
+    "AMPLIFIER_MARK_TOOLTIP",
+    "AMPLIFIER_CLICK_RESISTANCEPENETRATION",
+    "AMPLIFIER_CLICK_RESISTANCEPENETRATION_TOOLTIP",
+    "AMPLIFIER_CLICK_CRITICALHITS",
+    "AMPLIFIER_CLICK_POWER_STAT",
+    "AMPLIFIER_CLICK_RESISTANCEPENETRATION_STAT",
+    "AMPLIFIER_CLICK_CRITICALHITSCHANCE_STAT",
+    "AMPLIFIER_CLICK_CRITICALHITSDAMAGES_STAT",
+    "AMPLIFIER_AUTOCLICK_DELAY_STAT",
+    "TESONBOMB_NAME",
+    "TESONBOMB_DESCRIPTION",
+    "TESONBOMB_STATE_ACTIVE",
+    "TESONBOMB_STATEDESC_ACTIVE",
+    "TESONBOMB_STATE_PASSIVE",
+    "TESONBOMB_STATEDESC_PASSIVE",
+    "TESONBOMB_STATE_DEACTIVATED",
+    "TESONBOMB_DEACTIVATE",
+    "TESONBOMB_DEACTIVATE_TOOLTIP",
+    "EXTRACTABLE_SUBTITLE",
+    "EXTRACTABLE_INSTRUCTION",
+    "EXTRACTABLE_REMAINING_RESOURCES",
+    "EXTRACTABLE_INERT",
+    "EXTRACTABLE_INERT_TOOLTIP",
+    "EXTRACTABLE_RESISTANCE",
+    "EXTRACTABLE_RESISTANCE_FORCLOYS",
+    "EXTRACTABLE_RESISTANCE_FORCLICKS",
+    "EXTRACTABLE_RESISTANCEFROMFORTIFICATION",
+    "EXTRACTABLE_RESISTANCEFROMCALCIFICATION",
+    "EXTRACTABLE_RESISTANCE_TOOHARDFORCLOYSANDCLICKS",
+    "EXTRACTABLE_RESISTANCE_TOOHARDFORCLOYS",
+    "EXTRACTABLE_RESISTANCE_TOOHARDFORCLICKS",
+    "EXTRACTABLE_RESISTANCE_TOOLTIP",
+    "EXTRACTABLE_FORTIFICATION",
+    "EXTRACTABLE_FORTIFICATION_TOOLTIP",
+    "EXTRACTABLE_HITPOINTSTONEXT",
+    "EXTRACTABLE_HEALOVERTIME",
+    "EXTRACTABLE_HEALOVERTIME_TOOLTIP",
+    "EXTRACTABLE_CALCIFICATION",
+    "EXTRACTABLE_CALCIFICATION_TOOLTIP",
+    "EXTRACTABLE_MAGNETIC",
+    "EXTRACTABLE_MAGNETIC_TOOLTIP",
+    "EXTRACTABLE_PROPERTYBASE",
+    "EXTRACTABLE_REGEN",
+    "UI_TOOHARDFORDEMO",
+    "HARVESTABLE_SUBTITLE",
+    "HARVESTABLE_RESOURCEUNITS_SINGULAR",
+    "HARVESTABLE_RESOURCEUNITS_PLURAL",
+    "HARVESTABLE_WEIGHT",
+    "HARVESTABLE_WEIGHT_TOOHEAVY",
+    "HARVESTABLE_WEIGHT_TOOLTIP",
+    "HARVESTABLE_HQONLY",
+    "HARVESTABLE_INSTRUCTION",
+    "HARVESTABLE_INSTRUCTION_HQORBEACON",
+    "HARVESTABLE_STUCK",
+    "EX_K1_NAME",
+    "EX_K1_DESCRIPTION",
+    "EX_K2_NAME",
+    "EX_K2_DESCRIPTION",
+    "EX_K3_NAME",
+    "EX_K3_DESCRIPTION",
+    "EX_K4_NAME",
+    "EX_K4_DESCRIPTION",
+    "EX_K5_NAME",
+    "EX_K5_DESCRIPTION",
+    "HA_K_NAME",
+    "HA_K_NAME_PLURAL",
+    "HA_K1_NAME",
+    "HA_K1_NAME_PLURAL",
+    "HA_K1_DESCRIPTION",
+    "HA_K2_NAME",
+    "HA_K2_NAME_PLURAL",
+    "HA_K2_DESCRIPTION",
+    "HA_K3_NAME",
+    "HA_K3_NAME_PLURAL",
+    "HA_K3_DESCRIPTION",
+    "HA_K4_NAME",
+    "HA_K4_NAME_PLURAL",
+    "HA_K4_DESCRIPTION",
+    "HA_K5_NAME",
+    "HA_K5_NAME_PLURAL",
+    "HA_K5_DESCRIPTION",
+    "EX_NK1_NAME",
+    "EX_NK1_DESCRIPTION",
+    "EX_NK2_NAME",
+    "EX_NK2_DESCRIPTION",
+    "EX_NK3_NAME",
+    "EX_NK3_DESCRIPTION",
+    "EX_NK4_NAME",
+    "EX_NK4_DESCRIPTION",
+    "HA_NK_NAME",
+    "HA_NK_NAME_PLURAL",
+    "HA_NK1_NAME",
+    "HA_NK1_NAME_PLURAL",
+    "HA_NK1_DESCRIPTION",
+    "HA_NK2_NAME",
+    "HA_NK2_NAME_PLURAL",
+    "HA_NK2_DESCRIPTION",
+    "HA_NK3_NAME",
+    "HA_NK3_NAME_PLURAL",
+    "HA_NK3_DESCRIPTION",
+    "HA_NK4_NAME",
+    "HA_NK4_NAME_PLURAL",
+    "HA_NK4_DESCRIPTION",
+    "EX_KT_NAME",
+    "EX_KT_DESCRIPTION",
+    "HA_KT_NAME",
+    "HA_KT_NAME_PLURAL",
+    "HA_KT_DESCRIPTION",
+    "HA_CR_NAME",
+    "HA_CR_NAME_PLURAL",
+    "HA_CR_DESCRIPTION",
+    "AN_NAME",
+    "AN_DESCRIPTION",
+    "AN_DESCRIPTION_CLEANSED",
+    "AN_FOCUSED",
+    "AN_NEEDED_CLOYS",
+    "AN_LEVEL",
+    "AN_DEACTIVATE_ABSORPTION",
+    "AN_ACTIVATE_ABSORPTION",
+    "AN_DISPERSE",
+    "EX_RF_NAME",
+    "EX_RF_DESCRIPTION",
+    "HA_RP_NAME",
+    "HA_RP_NAME_PLURAL",
+    "HA_RP_DESCRIPTION",
+    "EX_GP_NAME",
+    "EX_GP_DESCRIPTION",
+    "HA_GE_NAME",
+    "HA_GE_DESCRIPTION",
+    "HA_GE_ACTIVATE",
+    "GEM_COLOR_WHITE",
+    "GEM_COLOR_BLUE",
+    "GEM_COLOR_BLACK",
+    "GEM_COLOR_PINK",
+    "SD_NAME",
+    "SD_DESCRIPTION",
+    "EX_CB1_NAME",
+    "EX_CB1_DESCRIPTION",
+    "EX_BO_NAME",
+    "EX_BO_DESCRIPTION",
+    "EX_HBO_NAME",
+    "EX_HBO_DESCRIPTION",
+    "EX_CBO_NAME",
+    "EX_CBO_DESCRIPTION",
+    "EX_RBO_NAME",
+    "EX_RBO_DESCRIPTION",
+    "EX_ABO_NAME",
+    "EX_ABO_DESCRIPTION",
+    "EX_MO_NAME",
+    "EX_MO_DESCRIPTION",
+    "HA_CL1_NAME",
+    "HA_CL1_NAME_PLURAL",
+    "HA_CL1_DESCRIPTION",
+    "HA_CL2_NAME",
+    "HA_CL2_NAME_PLURAL",
+    "HA_CL2_DESCRIPTION",
+    "HA_CL3_NAME",
+    "HA_CL3_NAME_PLURAL",
+    "HA_CL3_DESCRIPTION",
+    "IB_NAME",
+    "IB_DESCRIPTION",
+    "PP_NAME",
+    "PP_DESCRIPTION",
+    "PP_CLOYS",
+    "EF_NAME",
+    "EF_DESCRIPTION",
+    "EF_OPEN",
+    "PF_NAME",
+    "PF_DESCRIPTION",
+    "PF_FREQUENCY",
+    "PF_FREQUENCY_TOOLTIP",
+    "PF_OUTPOST",
+    "PF_OUTPOST_UNREACHABLE",
+    "PF_BUILD",
+    "PF_FREQUENCY_TOO_HIGH",
+    "PF_BUILDING_PROGRESS",
+    "PF_NOT_BUILT",
+    "PF_LOCKED_IN_DEMO",
+    "CO_SUBTITLE",
+    "CO_LEVEL",
+    "CO_UPGRADE",
+    "CO_MAXED",
+    "CO_MAX_DEMO_LVL",
+    "CO_ACTIVATE",
+    "CO_ACTIVATED",
+    "CO_QUICK_UPGRADE",
+    "CO_QUICK_ACTIVATE",
+    "CO_SR_RESOURCESSMALL_NAME",
+    "CO_SR_RESOURCESMEDIUM_NAME",
+    "CO_SR_RESOURCESBIG_NAME",
+    "CO_SR_RESOURCESGIANT_NAME",
+    "CO_SR_RESOURCES_DESCRIPTION",
+    "CO_SR_CLOYSSMALL_NAME",
+    "CO_SR_CLOYSMEDIUM_NAME",
+    "CO_SR_CLOYS_DESCRIPTION",
+    "CO_SR_EFFECT",
+    "CO_CL_COSTSCALING_NAME",
+    "CO_CL_COSTSCALING_DESCRIPTION",
+    "CO_CL_COSTSCALING_CLOYSPURCHASE_EFFECT",
+    "CO_CL_COSTSCALING_ATKUPGRADE",
+    "CO_CL_COSTSCALING_STRENGTHUPGRADE",
+    "CO_CL_COSTSCALING_SPEEDUPGRADE",
+    "CO_CL_FREECLOYS_NAME",
+    "CO_CL_FREECLOYS_DESCRIPTION",
+    "CO_CL_FREECLOYS_EFFECT",
+    "CO_CS_NAME",
+    "CO_CS_DESCRIPTION",
+    "CO_CS_SA_EFFECT",
+    "CO_CS_AU_EFFECT",
+    "CO_CS_AU2_EFFECT",
+    "CO_CS_MHA_EFFECT",
+    "CO_CS_LAJ_EFFECT",
+    "CO_CS_SS_EFFECT",
+    "CO_CS_SU_EFFECT",
+    "CO_CS_TD_EFFECT",
+    "CO_CS_HR_EFFECT",
+    "CO_CS_BS_EFFECT",
+    "CO_CS_SPU_EFFECT",
+    "CO_CS_MRL_EFFECT",
+    "CO_CM_CLOYSRECYCLING_NAME",
+    "CO_CM_CLOYSRECYCLING_DESCRIPTION",
+    "CO_CM_CLOYSRECYCLING_EFFECT",
+    "CO_CP_DESCRIPTION",
+    "CO_IZR_NAME",
+    "CO_IZR_EFFECT",
+    "CO_SCP_NAME",
+    "CO_SCP_EFFECT",
+    "CO_CPU_NAME",
+    "CO_CPU2_NAME",
+    "CO_CPU_EFFECT",
+    "CO_CPUCS_NAME",
+    "CO_CPUCS_EFFECT",
+    "CO_CRP_NAME",
+    "CO_CRP_EFFECT",
+    "CO_CCC_NAME",
+    "CO_CCC_EFFECT",
+    "CO_CCD_NAME",
+    "CO_CCD_EFFECT",
+    "CO_MM_NAME",
+    "CO_MM_DESCRIPTION",
+    "CO_MM_EFFECT",
+    "CO_AC_DESCRIPTION",
+    "CO_ACBF_NAME",
+    "CO_ACBF_EFFECT",
+    "CO_ACFU_NAME",
+    "CO_ACFU_EFFECT",
+    "CO_ACFUCS_NAME",
+    "CO_ACFUCS_EFFECT",
+    "CO_ACC_NAME",
+    "CO_ACC_EFFECT",
+    "CO_SB_NAME",
+    "CO_SB_DESCRIPTION",
+    "CO_SB_EFFECT",
+    "CO_BL_NAME",
+    "CO_BL_DESCRIPTION",
+    "CO_BL_EFFECT",
+    "CO_DRIB_NAME",
+    "CO_DRIB_DESCRIPTION",
+    "CO_DRIB_EFFECT",
+    "CO_BS_NAME",
+    "CO_BS_DESCRIPTION",
+    "CO_BS_ILL_EFFECT",
+    "CO_BS_LLU_EFFECT",
+    "CO_BS_LLUC_EFFECT",
+    "CO_BS_IBR_EFFECT",
+    "CO_BS_BRU_EFFECT",
+    "CO_BS_BRUC_EFFECT",
+    "CO_MT_NAME",
+    "CO_MT_DESCRIPTION",
+    "CO_MT_EFFECT",
+    "CO_MOBL_NAME",
+    "CO_MOBL_DESCRIPTION",
+    "CO_MOBL_EFFECT",
+    "MO_NAME_UNSTUDIED",
+    "MO_NAME_DAMAGED",
+    "MO_NAME_REPAIRED",
+    "MO_DESCRIPTION_UNSTUDIED",
+    "MO_DESCRIPTION_STUDIED",
+    "MO_DESCRIPTION_REPAIRED",
+    "MO_INFO_STUDYPROGRESS",
+    "MO_INFO_GRADE",
+    "MO_INFO_INFUSINGGRADE",
+    "MO_INFO_INFUSINGGRADE_TOOLTIP",
+    "MO_STUDY_TURNON",
+    "MO_STUDY_TURNOFF",
+    "MO_INFO_NOTINRANGE",
+    "MO_INFO_NOCLOY",
+    "MO_STUDY_TOOLTIP",
+    "MO_REPAIR",
+    "MO_UPGRADE",
+    "MO_MAXLEVEL",
+    "MO_NOT_STUDIED",
+    "MO_NOT_REPAIRED",
+    "MO_QUICK_UPGRADE",
+    "MO_EFFECT_PREFIX",
+    "MU_EFFECT_CURRENT",
+    "MO_EFFECT_EAF",
+    "MO_EFFECT_EAP",
+    "MO_EFFECT_ERS",
+    "MO_EFFECT_HAF",
+    "MO_EFFECT_HAP",
+    "MO_EFFECT_OSB",
+    "MO_EFFECT_OSR",
+    "MO_EFFECT_ESB",
+    "MO_EFFECT_ESP",
+    "CS_NAME_DIRTY",
+    "CS_DESCRIPTION_DIRTY",
+    "CS_REMAINING_HITS",
+    "CS_NAME_CLEAN",
+    "CS_DESCRIPTION_CLEAN",
+    "CS_SEND_DATA",
+    "CS_QUICK_SEND_DATA",
+    "CS_DESCRIPTION_SENT",
+    "CS_FUTUREEFFECT",
+    "CS_EFFECT",
+    "CS_EFFECT_BEACONS_MODE",
+    "CS_EFFECT_BEACONS_SPEED",
+    "CS_EFFECT_BEACONS_SATELLITE",
+    "CS_EFFECT_DROPRESOURCESINBEACONS",
+    "CS_EFFECT_TELEPORTTHROUGHBEACONS",
+    "CS_EFFECT_HARVESTANDDROPFASTER",
+    "CS_EFFECT_PROPAGATEMARKTOHARVESTABLE",
+    "CS_EFFECT_PROPAGATEMARKTOEXTRACTABLES",
+    "CS_EFFECT_BEACONS_TWEAKABLESPEED",
+    "CS_EFFECT_BEACONS_REMOTEBASES",
+    "CS_EFFECT_BEACONS_WINDRESISTANCE",
+    "CS_EFFECT_CLOYS_WINDRESISTANCE",
+    "CS_EFFECT_BEACONS_TWINS",
+    "CS_EFFECT_BEACONS_TWINS_TOOLTIPS",
+    "CS_EFFECT_PORTAL_AUTOCLICK",
+    "CS_EFFECT_BEACON_AUTOCLICK",
+    "CS_EFFECT_BEACONS_PING",
+    "CS_EFFECT_BEACONS_PING_ANOMALIES",
+    "CS_EFFECT_BEACONS_PING_CARVEDSTONES",
+    "CS_EFFECT_BEACONS_PING_MONOLITHS",
+    "CS_EFFECT_BEACONS_PING_PULSATINGFIELD",
+    "CS_EFFECT_CLOYS_MEDITATESPEED",
+    "CS_EFFECT_CLOYS_DONTDIEONANOMALIES",
+    "CS_EFFECT_CLOYS_CLOYSONACID",
+    "CS_EFFECT_BEACONS_BEACONSONACID",
+    "CS_EFFECT_AUTOSTORESMALL",
+    "CS_EFFECT_AUTOSTOREMEDIUM",
+    "CS_EFFECT_EXTRACTABLES_FORTIFICATIONREDUCTION",
+    "CS_EFFECT_EXTRACTABLES_HEALREDUCTION",
+    "CS_EFFECT_EXTRACTABLES_CALCIFICATIONREDUCTION",
+    "CS_EFFECT_CLOYS_RESISTANCEPENTRATIONPERCENTS",
+    "CS_EFFECT_CLICKS_RESISTANCEPENTRATIONPERCENTS",
+    "PPA_NAME",
+    "PPA_DESCRIPTION",
+    "PPA_EFFECT_STATS",
+    "PPA_EFFECT_MULTIBUY",
+    "PPA_EFFECT_AUTOBUY",
+    "PPA_EFFECT_RUNUPGRADES",
+    "PPA_EFFECT_OUTPOSTS",
+    "PPA_EFFECT_MONOLITHS",
+    "PPA_EFFECT_AUTOABSORBRADIATION",
+    "PPA_EFFECT_DEFAULTBEACONSMODE",
+    "PPA_EFFECT_CARVEDSTONES",
+    "GKL_NAME",
+    "GKL_DESCRIPTION",
+    "GKL_DESCRIPTION_PG",
+    "GKL_BUILDPUMP",
+    "KP_NAME",
+    "KP_DESCRIPTION",
+    "KP_CURRENTRATE",
+    "KP_UPGRADE",
+    "SP_NAME_SPLIT",
+    "SP_DESCRIPTION_SPLIT",
+    "SP_NAME",
+    "SP_DESCRIPTION",
+    "SP_DESCRIPTION_EMPTY",
+    "SP_REMAINING_HITS",
+    "SP_OPEN",
+    "UI_START_SESSION",
+    "UI_END_SESSION",
+    "UI_NOTIFICATION_NEWDEZOOMLEVEL",
+    "UI_NOTIFICATION_UNLOCK",
+    "UI_NOTIFICATION_SHORTCUT",
+    "UI_SHORTCUT_IGNOREHOVERAUTOCLICKONHARVESTABLES_ON",
+    "UI_SHORTCUT_IGNOREHOVERAUTOCLICKONHARVESTABLES_OFF",
+    "UI_SHORTCUT_CLOYSMODE_FOCUS",
+    "UI_SHORTCUT_CLOYSMODE_DONTCARE",
+    "UI_SHORTCUT_CLOYSMODE_IGNORE",
+    "CREDITS_NAME",
+    "CREDITS_NAME_PLURAL",
+    "CLAY_NAME",
+    "UI_RESOURCES_PERSISTENT",
+    "UI_RESOURCES_NONPERSISTENT",
+    "UI_MISSIONINFO_PLANET",
+    "UI_MISSIONINFO_DURATION",
+    "UI_MISSIONINFO_EMPLOYEEID",
+    "UI_MISSIONINFO_WORKSTATION",
+    "UI_DURATION_S",
+    "UI_DURATION_MN",
+    "UI_DURATION_MN_S",
+    "UI_DURATION_HRS_MN",
+    "UI_DURATION_HRS_MN_S",
+    "UI_DURATION_D_HRS_MN",
+    "UI_DURATION_D_HRS_MN_S",
+    "UI_IP_INACCESSIBLE",
+    "UI_IP_MARK",
+    "UI_IP_UNMARK",
+    "UI_INPUT_LEFTCLICK",
+    "UI_INPUT_RIGHTCLICK",
+    "UI_IP_HOLD",
+    "UI_IP_THOLD",
+    "UI_REINFORCE",
+    "UI_REINFORCED",
+    "UI_REINFORCE_TOOLTIP",
+    "UI_FOCUS",
+    "UI_UNFOCUS",
+    "UI_ALLOWPICKUP",
+    "UI_MULTIBUY",
+    "UI_MULTIBUY_TOOLTIP",
+    "UI_AUTOBUY",
+    "UI_AUTOBUYSINGLE",
+    "UI_BOUGHTAMOUNT",
+    "UI_UPGRADESPANEL_INPROGRESSTAB",
+    "UI_UPGRADESPANEL_MAXEDTAB",
+    "UI_UPGRADESPANEL_UNKNOWNCARVEDSTONES",
+    "UI_UPGRADESPANEL_SENTCARVEDSTONES",
+    "UI_UPGRADESPANEL_EMPTY",
+    "UI_UPGRADESPANEL_SORTBYCOST",
+    "UI_UPGRADESPANEL_SORTBYFREQUENCY",
+    "UI_UPGRADESPANEL_SORTBYCOMPLEXITY",
+    "UI_SERP_TITLE",
+    "UI_SERP_SUBTITLE",
+    "UI_SERP_RESOURCE_HARVESTED",
+    "UI_SERP_RESOURCE_RATE",
+    "UI_SERP_RESOURCE_PAYOUT",
+    "UI_SERP_RESOURCE_TOOLTIP",
+    "UI_SERP_TOTAL_GAIN",
+    "UI_SERP_VALIDATE_END",
+    "TRIVIA_TITLE",
+    "TRIVIA_1",
+    "TRIVIA_2",
+    "TRIVIA_3",
+    "TRIVIA_4",
+    "TRIVIA_5",
+    "TRIVIA_6",
+    "TRIVIA_7",
+    "TRIVIA_8",
+    "TRIVIA_9",
+    "TRIVIA_10",
+    "TRIVIA_11",
+    "TRIVIA_12",
+    "TRIVIA_13",
+    "TRIVIA_14",
+    "TRIVIA_15",
+    "TRIVIA_16",
+    "TRIVIA_17",
+    "TRIVIA_18",
+    "TRIVIA_19",
+    "TRIVIA_20",
+    "TRIVIA_21",
+    "MAILS_TITLE",
+    "MAILS_SENDER",
+    "MAILS_RECIPIENT",
+    "MAILS_COMPANY",
+    "MAILS_PLAYER",
+    "MAILS_CEO_SENDER",
+    "MAILS_HR_SENDER",
+    "MAILS_ED_SENDER",
+    "MAILS_BM_SENDER",
+    "MAILS_CEO_SIGNATURE",
+    "MAILS_HR_SIGNATURE",
+    "MAILS_ED_SIGNATURE",
+    "MAILS_RECEIVED_SINCE",
+    "MAIL_WELCOME_TITLE",
+    "MAIL_WELCOME_BODY",
+    "MAIL_WELCOME2_TITLE",
+    "MAIL_WELCOME2_BODY",
+    "ST_HOLDTOCLICK",
+    "ST_MOVECAMERA",
+    "PU_FIRST_HARVESTABLE",
+    "PU_CLOYS_MODE_SHORTCUT",
+    "PU_TOGGLE_AUTO_HOLD",
+    "PU_TOO_RESISTANT_TREE",
+    "PU_FIRST_NK",
+    "PU_FIRST_KC2",
+    "PU_AUCA",
+    "PU_RACOSE",
+    "PU_FIRST_PF",
+    "PU_SPEND_WISELY",
+    "PU_FIRST_KTN",
+    "PU_AVAILABLE_PURCHASE",
+    "PU_BUILD_BEACON",
+    "PU_FIRST_IDLE",
+    "PU_DES_BUILDBEACON",
+    "PU_FIRST_BEACON",
+    "PU_FIRST_BEACON_REMINDER",
+    "PU_EXPLORE_BETTER",
+    "PU_DES_EXPLOREBEACON",
+    "PU_BUILD_AN_OUTPOST",
+    "PU_BETTER_PAYOUT",
+    "PU_ENABLE_BEACON_SCENT",
+    "PU_SPEND_MONEY",
+    "PU_CAN_EXTEND_BEACON",
+    "PU_EXTEND_BEACON",
+    "PU_STUCK_HARVESTABLE",
+    "PU_ACIDIC_CLOY",
+    "PU_FASTER_BEACON",
+    "PU_END_SESSION",
+    "PU_POSTFIRSTSESSION",
+    "PU_HOVEREDMARK_TUTO",
+    "PU_PREVENTSESSIONSTART_NOCREDITSPENT",
+    "PU_PRESENTSESSIONSTART_NOESSENCESPENT",
+    "PU_PREVENTSESSIONEND_IMPROVEAMPLIFIERORCEC",
+    "PU_PREVENTSESSIONEND_BUILDOUTPOSTORREPAIRMONOLITH",
+    "PU_SMALL_DEMO_END",
+    "PU_BETATEST_ERROR",
+    "MAIL_FKT_TITLE",
+    "MAIL_FKT_BODY",
+    "MAIL_MM_TITLE",
+    "MAIL_MM_BODY",
+    "MAIL_MQ_TITLE",
+    "MAIL_MQ_BODY",
+    "MAIL_OR_TITLE",
+    "MAIL_OR_BODY",
+    "MAIL_BPR_TITLE",
+    "MAIL_BPR_BODY",
+    "MAIL_BPR2_TITLE",
+    "MAIL_BPR2_BODY",
+    "MAIL_MA_TITLE",
+    "MAIL_MA_BODY",
+    "MAIL_RMA_TITLE",
+    "MAIL_RMA_BODY",
+    "MAIL_RMAP_TITLE",
+    "MAIL_RMAP_BODY",
+    "MAIL_HM_TITLE",
+    "MAIL_HM_BODY",
+    "MAIL_HM2_TITLE",
+    "MAIL_HM2_BODY",
+    "MAIL_HM3_TITLE",
+    "MAIL_HM3_BODY",
+    "MAIL_CCS_TITLE",
+    "MAIL_CCS_BODY",
+    "MAIL_GD_TITLE",
+    "MAIL_GD_BODY",
+    "MAIL_GD2_TITLE",
+    "MAIL_GD2_BODY",
+    "MAIL_GD3_TITLE",
+    "MAIL_GD3_BODY",
+    "MAIL_GD4_TITLE",
+    "MAIL_GD4_BODY",
+    "MAIL_GE_TITLE",
+    "MAIL_GE_BODY",
+    "MAIL_GA_TITLE",
+    "MAIL_GA_BODY",
+    "MAIL_GA2_TITLE",
+    "MAIL_GA2_BODY",
+    "MAIL_TM1_TITLE",
+    "MAIL_TM1_BODY",
+    "MAIL_GA3_TITLE",
+    "MAIL_GA3_BODY",
+    "MAIL_CTG_TITLE",
+    "MAIL_CTG_BODY",
+    "MAIL_CTG2_TITLE",
+    "MAIL_CTG2_BODY",
+    "MAIL_CTG3_TITLE",
+    "MAIL_CTG3_BODY",
+    "MAIL_FKC_TITLE",
+    "MAIL_FKC_BODY",
+    "MAIL_FKC2_TITLE",
+    "MAIL_FKC2_BODY",
+    "MAIL_IBCS_TITLE",
+    "MAIL_IBCS_BODY",
+    "MAIL_IBCS2_TITLE",
+    "MAIL_IBCS2_BODY",
+    "MAIL_LTS1_TITLE",
+    "MAIL_LTS1_BODY",
+    "MAIL_LTS2_TITLE",
+    "MAIL_LTS2_BODY",
+    "MAIL_LTS3_TITLE",
+    "MAIL_LTS3_BODY",
+    "MAIL_LTS4_TITLE",
+    "MAIL_LTS4_BODY",
+    "MAIL_FR1_TITLE",
+    "MAIL_FR1_BODY",
+    "MAIL_FR2_TITLE",
+    "MAIL_FR2_BODY",
+    "MAIL_FR3_TITLE",
+    "MAIL_FR3_BODY",
+    "MAIL_RL1_TITLE",
+    "MAIL_RL1_BODY",
+    "MAIL_RL2_TITLE",
+    "MAIL_RL2_BODY",
+    "MAIL_AM1_TITLE",
+    "MAIL_AM1_BODY",
+    "MAIL_AM2_TITLE",
+    "MAIL_AM2_BODY",
+    "MAIL_AM3_TITLE",
+    "MAIL_AM3_BODY",
+    "MAIL_CI1_TITLE",
+    "MAIL_CI1_BODY",
+    "MAIL_CI2_TITLE",
+    "MAIL_CI2_BODY",
+    "MAIL_CI3_TITLE",
+    "MAIL_CI3_BODY",
+    "MAIL_CI2b_TITLE",
+    "MAIL_CI2b_BODY",
+    "MAIL_KMTS1_TITLE",
+    "MAIL_KMTS1_BODY",
+    "MAIL_KMTS2_TITLE",
+    "MAIL_KMTS2_BODY",
+    "MAIL_KMTS3_TITLE",
+    "MAIL_KMTS3_BODY",
+    "MAIL_KMTS4_TITLE",
+    "MAIL_KMTS4_BODY",
+    "MAIL_KMTS5_TITLE",
+    "MAIL_KMTS5_BODY",
+    "MAIL_RTE1_TITLE",
+    "MAIL_RTE1_BODY",
+    "MAIL_RTE2_TITLE",
+    "MAIL_RTE2_BODY",
+    "MAIL_RTE3_TITLE",
+    "MAIL_RTE3_BODY",
+    "MAIL_TB_TITLE",
+    "MAIL_TB_BODY",
+    "RW_LIVINGBREAKANNOUNCEMENT",
+    "UI_TAKELIVINGBREAK",
+    "RW_LIVINGBREAKSTARTING",
+    "RW_REINTEGRATION_ERROR",
+    "RW_FLOORNAME",
+    "RW_INTERACT_CUBICLEDOOR",
+    "RW_INTERACT_REINTEGRATE",
+    "RW_INTERACT_VENDORMACHINE",
+    "RW_INTERACT_CLOY",
+    "RW_INTERACT_CLOYDOWN",
+    "RW_INTERACT_DRIVE",
+    "RW_INTERACT_SERVERDOORNODRIVE",
+    "RW_INTERACT_SERVERDOOR",
+    "RW_INTERACT_COMPUTER",
+    "RW_COMPUTER_ROOM",
+    "RW_CLOY_MESSAGE",
+    "RW_COMP_01",
+    "RW_COMP_02",
+    "RW_COMP_03",
+    "RW_COMP_04",
+    "RW_COMP_05",
+    "RW_COMP_05_P1",
+    "RW_COMP_05_P2",
+    "RW_COMP_05_P3",
+    "RW_COMP_05_P4",
+    "RW_COMP_05_E",
+    "RW_COMP_06",
+    "RW_COMP_07",
+    "RW_COMP_08",
+    "RW_COMP_09",
+    "RW_COMP_10",
+    "RW_COMP_CONFIRM",
+    "RW_COMP_DONE",
+    "RW_COMP_ERROR",
+    "PG_THANKYOU",
+    "MAIL_PG_NEWTOOLS_TITLE",
+    "MAIL_PG_NEWTOOLS_BODY",
+    "PG_DISABLEBOMB",
+    "MAIL_PG_ALLGOOD_TITLE",
+    "MAIL_PG_ALLGOOD_BODY"
+  ],
+  "blank": [
+    "MAIL_TM1_TITLE",
+    "MAIL_AM3_TITLE",
+    "MAIL_KMTS5_TITLE"
+  ],
+  "font_characters": " !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё‐‑‒–—‘’‚‛“”„‟†‡•…‧‹›€™",
+  "tokens": {
+    "LOADING_UPGRADING_SAVE": [
+      "%amount%%"
+    ],
+    "PAUSE_LASTSAVE": [
+      "%time%"
+    ],
+    "PAUSE_PLAYTIME": [
+      "%time%"
+    ],
+    "UI_VERSION": [
+      "%current%"
+    ],
+    "UI_OPTIONS_AUTOCLOSETRIVIAS_DURATION": [
+      "%time%"
+    ],
+    "UI_REBINDING_INSTRUCTION": [
+      "[%input%]"
+    ],
+    "HQ_DEFAULTBEACONSMODE": [
+      "%name%"
+    ],
+    "BEACON_SPEED": [
+      "%amount%"
+    ],
+    "BEACON_INSTRUCTION": [
+      "%input%"
+    ],
+    "BEACON_BUILD_FIRST_SUBBEACON": [
+      "%structure%"
+    ],
+    "BEACON_BUILD_SUBBEACON": [
+      "%structure%"
+    ],
+    "BEACON_MODE_TOOLTIP_MANUAL": [
+      "%input%"
+    ],
+    "BEACON_MODE_NAME": [
+      "%name%"
+    ],
+    "BEACONS_BENDS": [
+      "%amount%",
+      "%max%"
+    ],
+    "REMOTEBASE_RECYCLE": [
+      "%amount%"
+    ],
+    "CLOY_CURRENT_HARVEST": [
+      "%amount%"
+    ],
+    "CLOY_SPEED": [
+      "%amount%"
+    ],
+    "CLOY_ATTACK": [
+      "%amount%"
+    ],
+    "CLOY_STRENGTH": [
+      "%amount%"
+    ],
+    "CLOY_COVEREDINACID": [
+      "%amount%",
+      "%time%"
+    ],
+    "ACTIVITY_RESIN": [
+      "%amount%"
+    ],
+    "AMPLIFIER_AUTOCLICK_TOOLTIP_OLD": [
+      "%input%",
+      "%input2%"
+    ],
+    "AMPLIFIER_AUTOCLICK_TOOLTIP": [
+      "%input2%"
+    ],
+    "AMPLIFIER_MARK_TOOLTIP": [
+      "%input%"
+    ],
+    "AMPLIFIER_CLICK_RESISTANCEPENETRATION": [
+      "%amount%"
+    ],
+    "AMPLIFIER_CLICK_CRITICALHITS": [
+      "%amount%%",
+      "%power%"
+    ],
+    "EXTRACTABLE_SUBTITLE": [
+      "%resource%"
+    ],
+    "EXTRACTABLE_INSTRUCTION": [
+      "%input%"
+    ],
+    "EXTRACTABLE_REMAINING_RESOURCES": [
+      "%amount%"
+    ],
+    "EXTRACTABLE_RESISTANCE": [
+      "%resistance%"
+    ],
+    "EXTRACTABLE_RESISTANCE_FORCLOYS": [
+      "%resistance%"
+    ],
+    "EXTRACTABLE_RESISTANCE_FORCLICKS": [
+      "%resistance%"
+    ],
+    "EXTRACTABLE_RESISTANCEFROMFORTIFICATION": [
+      "%amount%"
+    ],
+    "EXTRACTABLE_RESISTANCEFROMCALCIFICATION": [
+      "%amount%"
+    ],
+    "EXTRACTABLE_RESISTANCE_TOOHARDFORCLOYSANDCLICKS": [
+      "%attack%",
+      "%power%"
+    ],
+    "EXTRACTABLE_RESISTANCE_TOOHARDFORCLOYS": [
+      "%attack%"
+    ],
+    "EXTRACTABLE_RESISTANCE_TOOHARDFORCLICKS": [
+      "%power%"
+    ],
+    "EXTRACTABLE_RESISTANCE_TOOLTIP": [
+      "%attack%",
+      "%power%"
+    ],
+    "EXTRACTABLE_FORTIFICATION": [
+      "%amount%"
+    ],
+    "EXTRACTABLE_HITPOINTSTONEXT": [
+      "%points%"
+    ],
+    "EXTRACTABLE_HEALOVERTIME": [
+      "%amount%"
+    ],
+    "EXTRACTABLE_CALCIFICATION": [
+      "%amount%"
+    ],
+    "EXTRACTABLE_PROPERTYBASE": [
+      "%amount%"
+    ],
+    "EXTRACTABLE_REGEN": [
+      "%time%"
+    ],
+    "HARVESTABLE_SUBTITLE": [
+      "%resource%"
+    ],
+    "HARVESTABLE_RESOURCEUNITS_SINGULAR": [
+      "%amount%",
+      "%resource%"
+    ],
+    "HARVESTABLE_RESOURCEUNITS_PLURAL": [
+      "%amount%",
+      "%resource%"
+    ],
+    "HARVESTABLE_WEIGHT": [
+      "%weight%"
+    ],
+    "HARVESTABLE_WEIGHT_TOOHEAVY": [
+      "%weight%"
+    ],
+    "HARVESTABLE_WEIGHT_TOOLTIP": [
+      "%weight%"
+    ],
+    "HARVESTABLE_INSTRUCTION": [
+      "%input%"
+    ],
+    "HARVESTABLE_INSTRUCTION_HQORBEACON": [
+      "%input%"
+    ],
+    "AN_FOCUSED": [
+      "%time%"
+    ],
+    "AN_NEEDED_CLOYS": [
+      "%current%",
+      "%max%"
+    ],
+    "AN_LEVEL": [
+      "%amount%"
+    ],
+    "AN_DISPERSE": [
+      "%amount%"
+    ],
+    "EX_GP_NAME": [
+      "%color%"
+    ],
+    "EX_GP_DESCRIPTION": [
+      "%color%"
+    ],
+    "HA_GE_NAME": [
+      "%color%"
+    ],
+    "HA_GE_DESCRIPTION": [
+      "%color%"
+    ],
+    "PP_CLOYS": [
+      "%amount%"
+    ],
+    "PF_FREQUENCY": [
+      "%amount%"
+    ],
+    "PF_OUTPOST": [
+      "%structure%",
+      "%unlock%"
+    ],
+    "PF_BUILDING_PROGRESS": [
+      "%amount%%"
+    ],
+    "CO_LEVEL": [
+      "%amount%"
+    ],
+    "CO_QUICK_UPGRADE": [
+      "%input%"
+    ],
+    "CO_QUICK_ACTIVATE": [
+      "%input%"
+    ],
+    "CO_SR_RESOURCESSMALL_NAME": [
+      "%resource_name_plural%"
+    ],
+    "CO_SR_RESOURCESMEDIUM_NAME": [
+      "%resource_name_plural%"
+    ],
+    "CO_SR_RESOURCESBIG_NAME": [
+      "%resource_name_plural%"
+    ],
+    "CO_SR_RESOURCESGIANT_NAME": [
+      "%resource_name_plural%"
+    ],
+    "CO_SR_EFFECT": [
+      "%amount%",
+      "%resource%"
+    ],
+    "CO_CL_FREECLOYS_EFFECT": [
+      "%amount%"
+    ],
+    "CO_CS_SA_EFFECT": [
+      "%amount%"
+    ],
+    "CO_CS_AU_EFFECT": [
+      "%amount%"
+    ],
+    "CO_CS_AU2_EFFECT": [
+      "%amount%"
+    ],
+    "CO_CS_MHA_EFFECT": [
+      "%amount%"
+    ],
+    "CO_CS_LAJ_EFFECT": [
+      "%amount%"
+    ],
+    "CO_CS_SS_EFFECT": [
+      "%amount%"
+    ],
+    "CO_CS_SU_EFFECT": [
+      "%amount%"
+    ],
+    "CO_CS_TD_EFFECT": [
+      "%amount%%"
+    ],
+    "CO_CS_HR_EFFECT": [
+      "%amount%%"
+    ],
+    "CO_CS_BS_EFFECT": [
+      "%amount%%"
+    ],
+    "CO_CS_SPU_EFFECT": [
+      "%amount%%"
+    ],
+    "CO_CS_MRL_EFFECT": [
+      "%amount%"
+    ],
+    "CO_CM_CLOYSRECYCLING_EFFECT": [
+      "%amount%%"
+    ],
+    "CO_IZR_EFFECT": [
+      "%amount%"
+    ],
+    "CO_SCP_EFFECT": [
+      "%amount%"
+    ],
+    "CO_CPU_EFFECT": [
+      "%amount%"
+    ],
+    "CO_CRP_EFFECT": [
+      "%amount%"
+    ],
+    "CO_CCC_EFFECT": [
+      "%amount%%"
+    ],
+    "CO_CCD_EFFECT": [
+      "%amount%%"
+    ],
+    "CO_MM_EFFECT": [
+      "%amount%"
+    ],
+    "CO_ACBF_EFFECT": [
+      "%amount%%"
+    ],
+    "CO_ACFU_EFFECT": [
+      "%amount%%"
+    ],
+    "CO_ACC_EFFECT": [
+      "%amount%"
+    ],
+    "CO_SB_EFFECT": [
+      "%structure%",
+      "%current%"
+    ],
+    "CO_BL_EFFECT": [
+      "%amount%"
+    ],
+    "CO_BS_ILL_EFFECT": [
+      "%amount%%"
+    ],
+    "CO_BS_LLU_EFFECT": [
+      "%amount%%"
+    ],
+    "CO_BS_IBR_EFFECT": [
+      "%amount%%"
+    ],
+    "CO_BS_BRU_EFFECT": [
+      "%amount%%"
+    ],
+    "CO_MT_EFFECT": [
+      "%amount%"
+    ],
+    "CO_MOBL_EFFECT": [
+      "%max%",
+      "%amount%"
+    ],
+    "MO_INFO_STUDYPROGRESS": [
+      "%current%%",
+      "%amount%"
+    ],
+    "MO_INFO_GRADE": [
+      "%amount%"
+    ],
+    "MO_INFO_INFUSINGGRADE": [
+      "%amount%"
+    ],
+    "MO_QUICK_UPGRADE": [
+      "%input%"
+    ],
+    "MU_EFFECT_CURRENT": [
+      "%max%"
+    ],
+    "MO_EFFECT_EAF": [
+      "%resource_name_plural%",
+      "%amount%"
+    ],
+    "MO_EFFECT_EAP": [
+      "%resource_name_plural%",
+      "%amount%%"
+    ],
+    "MO_EFFECT_ERS": [
+      "%resource_name_plural%",
+      "%amount%%"
+    ],
+    "MO_EFFECT_HAF": [
+      "%resource_name_plural%",
+      "%amount%",
+      "%resource%"
+    ],
+    "MO_EFFECT_HAP": [
+      "%resource_name_plural%",
+      "%amount%%",
+      "%resource%"
+    ],
+    "MO_EFFECT_OSB": [
+      "%amount%"
+    ],
+    "MO_EFFECT_OSR": [
+      "%amount%%"
+    ],
+    "MO_EFFECT_ESB": [
+      "%amount%"
+    ],
+    "MO_EFFECT_ESP": [
+      "%amount%%"
+    ],
+    "CS_REMAINING_HITS": [
+      "%points%"
+    ],
+    "CS_QUICK_SEND_DATA": [
+      "%input%"
+    ],
+    "CS_FUTUREEFFECT": [
+      "%unlock%"
+    ],
+    "CS_EFFECT": [
+      "%unlock%"
+    ],
+    "CS_EFFECT_BEACONS_MODE": [
+      "%name%"
+    ],
+    "CS_EFFECT_BEACONS_SPEED": [
+      "%amount%%"
+    ],
+    "CS_EFFECT_PORTAL_AUTOCLICK": [
+      "%amount%"
+    ],
+    "CS_EFFECT_BEACON_AUTOCLICK": [
+      "%amount%",
+      "%structure%"
+    ],
+    "CS_EFFECT_BEACONS_PING": [
+      "%structure%"
+    ],
+    "CS_EFFECT_CLOYS_MEDITATESPEED": [
+      "%amount%%"
+    ],
+    "CS_EFFECT_EXTRACTABLES_FORTIFICATIONREDUCTION": [
+      "%amount%%"
+    ],
+    "CS_EFFECT_EXTRACTABLES_HEALREDUCTION": [
+      "%amount%%"
+    ],
+    "CS_EFFECT_EXTRACTABLES_CALCIFICATIONREDUCTION": [
+      "%amount%%"
+    ],
+    "CS_EFFECT_CLOYS_RESISTANCEPENTRATIONPERCENTS": [
+      "%amount%%"
+    ],
+    "CS_EFFECT_CLICKS_RESISTANCEPENTRATIONPERCENTS": [
+      "%amount%%"
+    ],
+    "KP_CURRENTRATE": [
+      "%amount%",
+      "%resource%"
+    ],
+    "SP_REMAINING_HITS": [
+      "%points%"
+    ],
+    "UI_NOTIFICATION_UNLOCK": [
+      "%structure%",
+      "%unlock%"
+    ],
+    "UI_NOTIFICATION_SHORTCUT": [
+      "%unlock%"
+    ],
+    "UI_MISSIONINFO_PLANET": [
+      "%planet%"
+    ],
+    "UI_MISSIONINFO_DURATION": [
+      "%time%"
+    ],
+    "UI_MISSIONINFO_EMPLOYEEID": [
+      "%id%"
+    ],
+    "UI_DURATION_S": [
+      "%s%"
+    ],
+    "UI_DURATION_MN": [
+      "%mn%"
+    ],
+    "UI_DURATION_MN_S": [
+      "%mn%",
+      "%s%"
+    ],
+    "UI_DURATION_HRS_MN": [
+      "%hrs%",
+      "%mn%"
+    ],
+    "UI_DURATION_HRS_MN_S": [
+      "%hrs%",
+      "%mn%",
+      "%s%"
+    ],
+    "UI_DURATION_D_HRS_MN": [
+      "%d%",
+      "%hrs%",
+      "%mn%"
+    ],
+    "UI_DURATION_D_HRS_MN_S": [
+      "%d%",
+      "%hrs%",
+      "%mn%",
+      "%s%"
+    ],
+    "UI_MULTIBUY_TOOLTIP": [
+      "[%Input:MultiBuy%]",
+      "[%Input:MultiBuy%]"
+    ],
+    "UI_BOUGHTAMOUNT": [
+      "%amount%"
+    ],
+    "UI_SERP_RESOURCE_HARVESTED": [
+      "%resource%",
+      "%amount%"
+    ],
+    "UI_SERP_RESOURCE_RATE": [
+      "%max%",
+      "%amount%"
+    ],
+    "UI_SERP_RESOURCE_PAYOUT": [
+      "%amount%",
+      "%resource%"
+    ],
+    "UI_SERP_RESOURCE_TOOLTIP": [
+      "%amount%",
+      "%resource%",
+      "%max%",
+      "%resource2%"
+    ],
+    "UI_SERP_TOTAL_GAIN": [
+      "%amount%",
+      "%resource%"
+    ],
+    "TRIVIA_15": [
+      "%"
+    ],
+    "MAILS_SENDER": [
+      "%name%"
+    ],
+    "MAILS_RECIPIENT": [
+      "%name%"
+    ],
+    "MAILS_PLAYER": [
+      "%id%"
+    ],
+    "MAILS_RECEIVED_SINCE": [
+      "%time%"
+    ],
+    "MAIL_WELCOME_BODY": [
+      "[%planet%]",
+      "%name%"
+    ],
+    "MAIL_WELCOME2_BODY": [
+      "[%planet%]",
+      "<h>",
+      "</h>",
+      "<h>",
+      "</h>",
+      "<h>",
+      "</h>",
+      "%name%"
+    ],
+    "PU_TOGGLE_AUTO_HOLD": [
+      "[%Input:ToggleAutoHold%]"
+    ],
+    "PU_TOO_RESISTANT_TREE": [
+      "<h>",
+      "</h>"
+    ],
+    "PU_FIRST_KC2": [
+      "<h>",
+      "</h>"
+    ],
+    "PU_FIRST_PF": [
+      "<h>",
+      "</h>"
+    ],
+    "PU_SPEND_WISELY": [
+      "<h>",
+      "</h>"
+    ],
+    "PU_FIRST_KTN": [
+      "<h>",
+      "</h>"
+    ],
+    "PU_BUILD_BEACON": [
+      "<h>",
+      "</h>"
+    ],
+    "PU_FIRST_BEACON": [
+      "<h>",
+      "</h>",
+      "<h>",
+      "</h>"
+    ],
+    "PU_FIRST_BEACON_REMINDER": [
+      "<h>",
+      "</h>"
+    ],
+    "PU_END_SESSION": [
+      "<h>",
+      "</h>"
+    ],
+    "PU_POSTFIRSTSESSION": [
+      "<h>",
+      "</h>",
+      "[%planet%]"
+    ],
+    "PU_HOVEREDMARK_TUTO": [
+      "[%Input:ToggleMarkHovered%]"
+    ],
+    "MAIL_FKT_BODY": [
+      "<h>",
+      "[%planet%]",
+      "</h>",
+      "%name%"
+    ],
+    "MAIL_MM_BODY": [
+      "%",
+      "%name%"
+    ],
+    "MAIL_MQ_BODY": [
+      "%name%"
+    ],
+    "MAIL_OR_BODY": [
+      "%name%"
+    ],
+    "MAIL_BPR_BODY": [
+      "%name%"
+    ],
+    "MAIL_BPR2_BODY": [
+      "%planet%",
+      "%name%"
+    ],
+    "MAIL_MA_BODY": [
+      "%name%"
+    ],
+    "MAIL_RMA_BODY": [
+      "%name%"
+    ],
+    "MAIL_RMAP_BODY": [
+      "%name%"
+    ],
+    "MAIL_HM_BODY": [
+      "%name%"
+    ],
+    "MAIL_HM2_BODY": [
+      "%planet%",
+      "%name%"
+    ],
+    "MAIL_HM3_BODY": [
+      "%planet%",
+      "%planet%",
+      "%name%"
+    ],
+    "MAIL_CCS_BODY": [
+      "%",
+      "%name%"
+    ],
+    "MAIL_GD_BODY": [
+      "%planet%",
+      "%name%"
+    ],
+    "MAIL_GD2_BODY": [
+      "%name%"
+    ],
+    "MAIL_GD3_BODY": [
+      "%name%"
+    ],
+    "MAIL_GD4_BODY": [
+      "%name%"
+    ],
+    "MAIL_GE_BODY": [
+      "%name%"
+    ],
+    "MAIL_GA_BODY": [
+      "%planet%",
+      "%name%"
+    ],
+    "MAIL_GA2_BODY": [
+      "%name%"
+    ],
+    "MAIL_GA3_BODY": [
+      "%name%"
+    ],
+    "MAIL_CTG_BODY": [
+      "%name%"
+    ],
+    "MAIL_CTG2_BODY": [
+      "%name%"
+    ],
+    "MAIL_CTG3_BODY": [
+      "%planet%",
+      "%name%"
+    ],
+    "MAIL_FKC_BODY": [
+      "%name%"
+    ],
+    "MAIL_FKC2_BODY": [
+      "%name%"
+    ],
+    "MAIL_IBCS_BODY": [
+      "%name%"
+    ],
+    "MAIL_IBCS2_BODY": [
+      "%planet%",
+      "%name%"
+    ],
+    "MAIL_LTS1_BODY": [
+      "%planet%",
+      "%name%"
+    ],
+    "MAIL_LTS2_BODY": [
+      "%planet%",
+      "%planet%",
+      "%name%"
+    ],
+    "MAIL_LTS3_BODY": [
+      "%name%"
+    ],
+    "MAIL_LTS4_BODY": [
+      "%planet%",
+      "%name%"
+    ],
+    "MAIL_FR1_BODY": [
+      "%name%"
+    ],
+    "MAIL_FR2_BODY": [
+      "%name%"
+    ],
+    "MAIL_FR3_BODY": [
+      "%name%"
+    ],
+    "MAIL_RL1_BODY": [
+      "%planet%",
+      "%name%"
+    ],
+    "MAIL_RL2_BODY": [
+      "%name%"
+    ],
+    "MAIL_AM1_BODY": [
+      "%name%"
+    ],
+    "MAIL_AM2_BODY": [
+      "%name%"
+    ],
+    "MAIL_CI1_BODY": [
+      "%name%"
+    ],
+    "MAIL_CI2_BODY": [
+      "%name%"
+    ],
+    "MAIL_CI3_BODY": [
+      "%name%"
+    ],
+    "MAIL_CI2b_BODY": [
+      "%name%"
+    ],
+    "MAIL_KMTS1_TITLE": [
+      "%planet%"
+    ],
+    "MAIL_KMTS1_BODY": [
+      "%planet%",
+      "%name%"
+    ],
+    "MAIL_KMTS2_TITLE": [
+      "%planet%"
+    ],
+    "MAIL_KMTS2_BODY": [
+      "%name%"
+    ],
+    "MAIL_KMTS3_TITLE": [
+      "%planet%"
+    ],
+    "MAIL_KMTS3_BODY": [
+      "%name%"
+    ],
+    "MAIL_KMTS4_TITLE": [
+      "%planet%"
+    ],
+    "MAIL_KMTS4_BODY": [
+      "%planet%",
+      "%name%"
+    ],
+    "MAIL_RTE1_TITLE": [
+      "%planet%"
+    ],
+    "MAIL_RTE1_BODY": [
+      "%planet%",
+      "%planet%",
+      "%name%"
+    ],
+    "MAIL_RTE2_TITLE": [
+      "%planet%"
+    ],
+    "MAIL_RTE2_BODY": [
+      "%name%"
+    ],
+    "MAIL_RTE3_TITLE": [
+      "%planet%"
+    ],
+    "MAIL_RTE3_BODY": [
+      "%planet%",
+      "%planet%",
+      "%name%"
+    ],
+    "MAIL_TB_BODY": [
+      "%planet%",
+      "%name%"
+    ],
+    "RW_INTERACT_CUBICLEDOOR": [
+      "%input%"
+    ],
+    "RW_INTERACT_REINTEGRATE": [
+      "%input%"
+    ],
+    "RW_INTERACT_VENDORMACHINE": [
+      "%input%"
+    ],
+    "RW_INTERACT_CLOY": [
+      "%input%"
+    ],
+    "RW_INTERACT_CLOYDOWN": [
+      "%input%"
+    ],
+    "RW_INTERACT_DRIVE": [
+      "%input%"
+    ],
+    "RW_INTERACT_SERVERDOOR": [
+      "%input%"
+    ],
+    "RW_INTERACT_COMPUTER": [
+      "%input%"
+    ],
+    "RW_COMP_07": [
+      "%input%"
+    ],
+    "RW_COMP_10": [
+      "%"
+    ],
+    "RW_COMP_CONFIRM": [
+      "%input%"
+    ],
+    "PG_THANKYOU": [
+      "%planet%",
+      "%planet%"
+    ],
+    "MAIL_PG_NEWTOOLS_BODY": [
+      "<h>",
+      "</h>",
+      "<h>",
+      "%planet%",
+      "</h>"
+    ],
+    "PG_DISABLEBOMB": [
+      "%planet%"
+    ],
+    "MAIL_PG_ALLGOOD_BODY": [
+      "%planet%"
+    ]
+  }
+}

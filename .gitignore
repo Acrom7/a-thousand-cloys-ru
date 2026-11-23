@@ -1,0 +1,11 @@
+/dist/
+__pycache__/
+.venv/
+*.zip
+*.cloys
+*.bundle
+*.assets
+*.resS
+*.dll
+*.exe
+.atc-ru-backup/

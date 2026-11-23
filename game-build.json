@@ -1,0 +1,63 @@
+{
+  "base_zip_sha256": "ea218bbbab0964ba1023685c475f5e25ff49c3399d207c532f77e7e8f0b273c1",
+  "gameVersion": "1.0.3",
+  "steamBuild": "26852255",
+  "appId": "3861740",
+  "release": "r2",
+  "files": [
+    {
+      "id": "01",
+      "path": "AThousandCloys_Data/Managed/Assembly-CSharp.dll",
+      "original": "91081305588ca66f6ea6182be0e1ffb974e5b2dbbe92957a89c05bc75bf02115",
+      "modified": "cff2c482f3351a686c303dca107a5fc72ad823220472ec8de25ab1d0a937bcfc",
+      "size": 1053696,
+      "previous": [
+        "8371df03c882df520887415ae90474056c148bfffc72cf27aedc25dd474777bd"
+      ]
+    },
+    {
+      "id": "02",
+      "path": "AThousandCloys_Data/resources.assets",
+      "original": "b4a8c6e54a691d0209b955526a6e20cc930c0de0fdd31e491607582c784001cc",
+      "modified": "15559c5ad44038aee9245accb754d69eee40ad1c676d86e43dc84efd9742691d",
+      "size": 648448,
+      "previous": []
+    },
+    {
+      "id": "03",
+      "path": "AThousandCloys_Data/resources.assets.resS",
+      "original": "3c6639a0065129d61b968203dc61ccc5494cdb7cf5421ebca405723e2ea0bb6d",
+      "modified": "27fafa5db25ae8b79db23c9e18853c635fb1ea33a5ae41fe14c3cb87dad0f714",
+      "size": 2447728,
+      "previous": []
+    },
+    {
+      "id": "04",
+      "path": "AThousandCloys_Data/StreamingAssets/aa/StandaloneWindows64/fonts_assets_all_66dbf36b3d2d71b71776c57706127090.bundle",
+      "original": "4ee19e730ee770405411b10a1999ab909484486dd24a3e31693a200460ad3651",
+      "modified": "d5b61f5c3c86fe04d90c1fe4f55e68f251ecf2c8606df51259af79ea1f72e974",
+      "size": 517802,
+      "previous": []
+    },
+    {
+      "id": "05",
+      "path": "AThousandCloys_Data/StreamingAssets/aa/StandaloneWindows64/localization_assets_all_cd06a310acbc54a3f2c5d0fcf98897fb.bundle",
+      "original": "d990b85a8fd4cbc9b05db44c335ab642d62f9b488f1163abbb437b00ec3be330",
+      "modified": "33f88968434351ea25b25e294dc18dd9c501e576a7b81e3da45611d15de81b04",
+      "size": 83678,
+      "previous": [
+        "7cec581e1ad3856a7e5787d3e9fd5d3c89a89d260f96562c81965d78531ba4a8"
+      ]
+    },
+    {
+      "id": "06",
+      "path": "AThousandCloys_Data/StreamingAssets/aa/catalog.bin",
+      "original": "b1684f878a0d85df07173eebd6d8707490cb84798cc9d59a2c6592f831d09870",
+      "modified": "254ee9e69422e627494a37d4ec7971b34688119894bc139784e0b8ab3a1d2db3",
+      "size": 115210,
+      "previous": [
+        "a1d8d229c9eaf23956dbfdc3eb6f676e9e7c77c6212d066794ce176013c959d7"
+      ]
+    }
+  ]
+}

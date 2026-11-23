@@ -4,7 +4,7 @@
 
 ## Скачать и установить
 
-1. В [Releases](https://github.com/Acrom7/a-thousand-cloys-ru/releases/latest) откройте **Assets** и скачайте архив `A-Thousand-Cloys-RU-Steam-1.0.3-r*.zip`.
+1. В [Releases](https://github.com/Acrom7/a-thousand-cloys-ru/releases/latest) откройте **Assets** и скачайте архив `A-Thousand-Cloys-RU-Steam-1.0.3-v*.zip`.
 2. Закройте игру и полностью распакуйте ZIP.
 3. В Steam откройте **Библиотека → A Thousand Cloys → Управление → Просмотреть локальные файлы**. Скопируйте путь к папке с `AThousandCloys.exe`.
 4. Запустите `Install-RU.cmd` из распакованного архива, вставьте путь и дождитесь сообщения об успехе. Запустите игру из библиотеки Steam. В главном меню можно выбрать «Русский».

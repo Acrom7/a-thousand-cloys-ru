@@ -1,9 +1,9 @@
 {
-  "base_zip_sha256": "ea218bbbab0964ba1023685c475f5e25ff49c3399d207c532f77e7e8f0b273c1",
+  "base_zip_sha256": "1038c5615359f63be190c08c0f38b1697f0a32d46c5c75ba5e094e2dff0cd593",
   "gameVersion": "1.0.3",
   "steamBuild": "26852255",
   "appId": "3861740",
-  "release": "r2",
+  "release": "v1",
   "files": [
     {
       "id": "01",

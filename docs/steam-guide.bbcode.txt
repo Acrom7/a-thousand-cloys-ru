@@ -8,7 +8,7 @@
 [b]Поддерживаемая версия[/b] — Steam для Windows, игра 1.0.3, Build ID 26852255.
 
 [h1]Где скачать[/h1]
-Откройте [url=https://github.com/Acrom7/a-thousand-cloys-ru/releases/latest]последний выпуск на GitHub[/url] и скачайте в разделе Assets архив A-Thousand-Cloys-RU-Steam-1.0.3-r…zip.
+Откройте [url=https://github.com/Acrom7/a-thousand-cloys-ru/releases/latest]последний выпуск на GitHub[/url] и скачайте в разделе Assets архив A-Thousand-Cloys-RU-Steam-1.0.3-v…zip.
 
 [h1]Установка[/h1]
 [olist]

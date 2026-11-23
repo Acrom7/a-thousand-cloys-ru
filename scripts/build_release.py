@@ -233,7 +233,7 @@ def build(game, base_zip, revision, output_dir, previous_zips):
     if output_dir.resolve().is_relative_to(game):
         raise ValueError("Папка выпуска должна быть вне установки Steam")
     if digest(base_zip.read_bytes()) != base["base_zip_sha256"]:
-        raise ValueError("Нужен исходный ZIP русификатора r2 с проверенным SHA-256")
+        raise ValueError("Нужен базовый ZIP русификатора с SHA-256 из game-build.json")
     contract = read_json(ROOT / "locales/format.json")
     rows = read_json(ROOT / "locales/ru.json")
     errors = check_translation(rows, contract)
@@ -275,8 +275,8 @@ def main():
     parser.add_argument("--out", type=Path, default=ROOT / "dist")
     parser.add_argument("--previous", type=Path, action="append", default=[])
     args = parser.parse_args()
-    if not re.fullmatch(r"r[2-9]|r[1-9][0-9]+", args.revision):
-        parser.error("Ожидается ревизия r2, r3 и далее")
+    if not re.fullmatch(r"v[1-9][0-9]*", args.revision):
+        parser.error("Ожидается версия v1, v2 и далее")
     try:
         output, sha = build(args.game_dir, args.base_zip, args.revision, args.out, args.previous)
     except (OSError, ValueError, KeyError, struct.error, zipfile.BadZipFile) as error:

@@ -198,7 +198,7 @@ def release_entries(base, outputs, previous_zips):
     return entries
 
 
-def write_zip(target, files):
+def write_zip(target, files, *, timestamp=(1980, 1, 1, 0, 0, 0)):
     sidecar = target.with_suffix(".zip.sha256")
     if sidecar.exists() or sidecar.is_symlink():
         raise FileExistsError(f"Файл контрольной суммы уже существует: {sidecar}")
@@ -207,7 +207,7 @@ def write_zip(target, files):
         try:
             with zipfile.ZipFile(handle, "w") as archive:
                 for name, payload in sorted(files.items()):
-                    info = zipfile.ZipInfo(name, date_time=(1980, 1, 1, 0, 0, 0))
+                    info = zipfile.ZipInfo(name, date_time=timestamp)
                     info.create_system = 0
                     archive.writestr(info, payload, compress_type=zipfile.ZIP_DEFLATED, compresslevel=9)
             with zipfile.ZipFile(handle) as archive:

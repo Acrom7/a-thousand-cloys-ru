@@ -33,6 +33,10 @@ def check_translation(rows, contract):
     font_chars = set(contract["font_characters"])
     problems = [f"Пропущен ключ {key}" for key in sorted(keys - rows.keys())]
     problems += [f"Лишний ключ {key}" for key in sorted(rows.keys() - keys)]
+    hashes = contract.get("source_sha256")
+    if (not isinstance(hashes, dict) or hashes.keys() != keys - blank or
+            any(not isinstance(value, str) or not re.fullmatch(r"[0-9a-f]{64}", value) for value in hashes.values())):
+        problems.append("Для каждой переводимой строки требуется SHA-256 английского оригинала")
     for key in contract["keys"]:
         if key not in rows:
             continue

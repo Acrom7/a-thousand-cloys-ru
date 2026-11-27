@@ -4,13 +4,13 @@
 
 ## Сборка на Windows
 
-Нужны игра Steam под Windows (проверена 1.0.4, Build ID `26923816`), Python 3.10 и компилятор `csc.exe` из .NET Framework 4.x. Скачайте [BepInEx 5.4.23.5 x64](https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.5/BepInEx_win_x64_5.4.23.5.zip) и [исходники UnityDoorstop 4.5.0 по коммиту](https://codeload.github.com/NeighTools/UnityDoorstop/zip/33dab9a6733862eb81869ff08431d9478b28784b). Сохраните исходники как `UnityDoorstop-4.5.0-source.zip`. Выполните из корня репозитория.
+Нужны игра Steam под Windows (проверена 1.0.5, Build ID `26970711`), Python 3.10 и компилятор `csc.exe` из .NET Framework 4.x. Скачайте [BepInEx 5.4.23.5 x64](https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.5/BepInEx_win_x64_5.4.23.5.zip) и [исходники UnityDoorstop 4.5.0 по коммиту](https://codeload.github.com/NeighTools/UnityDoorstop/zip/33dab9a6733862eb81869ff08431d9478b28784b). Сохраните исходники как `UnityDoorstop-4.5.0-source.zip`. Выполните из корня репозитория.
 
 ~~~powershell
-py -3.10 scripts/build_mod.py --game-dir "D:\SteamLibrary\steamapps\common\A Thousand Cloys" --bepinex-zip "D:\Downloads\BepInEx_win_x64_5.4.23.5.zip" --doorstop-source-zip "D:\Downloads\UnityDoorstop-4.5.0-source.zip" --revision v2
+py -3.10 scripts/build_mod.py --game-dir "D:\SteamLibrary\steamapps\common\A Thousand Cloys" --bepinex-zip "D:\Downloads\BepInEx_win_x64_5.4.23.5.zip" --doorstop-source-zip "D:\Downloads\UnityDoorstop-4.5.0-source.zip" --revision v3
 ~~~
 
-В `dist` появятся `A-Thousand-Cloys-RU-Windows-v2.zip` и файл SHA-256. Скрипт сверяет хеши обоих входных ZIP и включает лицензионные тексты и исходники Doorstop. Для выпуска только плагина передайте `--bepinex-dir "D:\Downloads\BepInEx"` с путём к распакованному загрузчику вместо двух параметров архивов. Имя файла будет `A-Thousand-Cloys-RU-BepInEx-v2.zip`.
+В `dist` появятся `A-Thousand-Cloys-RU-Windows-v3.zip` и файл SHA-256. Скрипт сверяет хеши обоих входных ZIP и включает лицензионные тексты и исходники Doorstop. Для выпуска только плагина передайте `--bepinex-dir "D:\Downloads\BepInEx"` с путём к распакованному загрузчику вместо двух параметров архивов. Имя файла будет `A-Thousand-Cloys-RU-BepInEx-v3.zip`.
 
 После обновления игры извлеките `Assets/Data/Localization/Localization.json` из бандла, который активный каталог Addressables связывает с ключом `Localization`. Английский текст в каждой записи хранится в поле `"0"`. Сверьте ключи, теги, подстановки и SHA-256 UTF-8 английского текста с `locales/format.json`. Для новых и изменённых реплик обновляйте русский текст, контракт и контрольную сумму вместе. Пока реплика не проверена, сохраняйте её предыдущий хеш или оставляйте новый ключ за пределами перевода.
 

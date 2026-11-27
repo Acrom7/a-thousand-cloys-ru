@@ -17,7 +17,7 @@ using UnityEngine.ResourceManagement.AsyncOperations;
 using UnityEngine.TextCore.LowLevel;
 
 [BepInProcess("AThousandCloys.exe")]
-[BepInPlugin(PluginId, "A Thousand Cloys Russian Translation", "2.0.0")]
+[BepInPlugin(PluginId, "A Thousand Cloys Russian Translation", "3.0.0")]
 public sealed class RussianTranslation : BaseUnityPlugin
 {
     private const string PluginId = "com.acrom7.atc.russian";
